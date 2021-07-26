@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="CodingDaniel_Core::menu" title="CodingDaniel" sortOrder="60" module="CodingDaniel_Core" resource="CodingDaniel_Core::menu"/>
+    </menu>
+</config>
