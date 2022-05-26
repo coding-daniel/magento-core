@@ -1,18 +1,18 @@
 {
-    "name": "codingdaniel/magento-core",
-    "description": "",
+    "name": "codingdaniel/magento2-core",
+    "description": "Core functionality for CodingDaniel modules",
     "require": {
-        "php": ">=7.3.0",
+        "php": ">=7.4.0",
         "magento/magento-composer-installer": "*"
     },
-    "suggest": {
-
-    },
+    "keywords": [
+        "magento",
+        "github"
+    ],
+    "homepage": "https://github.com/coding-daniel/magento-core",
     "type": "magento2-module",
     "version": "0.0.1",
-    "license": [
-
-    ],
+    "license": ["OSL-3.0"],
     "autoload": {
         "files": [
             "registration.php"
