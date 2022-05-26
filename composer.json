@@ -9,7 +9,14 @@
         "magento",
         "github"
     ],
-    "homepage": "https://github.com/coding-daniel/magento-core",
+    "homepage": "https://github.com/coding-daniel/magento2-core",
+    "readme": "README.md",
+    "authors": [
+        {
+            "name": "Daniel Pina",
+            "role": "Developer"
+        }
+    ],
     "type": "magento2-module",
     "version": "0.0.1",
     "license": ["OSL-3.0"],
@@ -28,5 +35,6 @@
                 "CodingDaniel/Core"
             ]
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
