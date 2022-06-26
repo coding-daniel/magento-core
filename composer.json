@@ -3,7 +3,8 @@
     "description": "Core functionality for CodingDaniel modules",
     "require": {
         "php": ">=7.4.0",
-        "magento/magento-composer-installer": "*"
+        "magento/magento-composer-installer": "*",
+        "laminas/laminas-log": "^2.15"
     },
     "keywords": [
         "magento",
