@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.4.0",
         "magento/magento-composer-installer": "*",
-        "laminas/laminas-log": "^2.15"
+        "laminas/laminas-log": "^2.12"
     },
     "keywords": [
         "magento",
@@ -19,7 +19,7 @@
         }
     ],
     "type": "magento2-module",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": ["OSL-3.0"],
     "autoload": {
         "files": [
